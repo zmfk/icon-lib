@@ -26,3 +26,10 @@
   display: inline-block;
   transform: translate3d(-0.125em, 0, 0);
 }
+.svg-icon {
+  width: 2.375em;
+  height: 2.375em;
+  margin: 0.5em 1em 0;
+  vertical-align: middle;
+  display: inline-block;
+}

@@ -2,7 +2,7 @@
   "name": "icon-lib",
   "version": "1.0.0",
   "description": "My Personal Icon Font",
-  "author": "jinyaoMa",
+  "author": "SuiMu",
   "license": "ISC",
   "scripts": {
     "build": "node generate.js",

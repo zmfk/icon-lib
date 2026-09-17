@@ -36,8 +36,7 @@ const prefix = `${fontFamilyClass}-`;
 
 const uniOffset = 0x78;
 
-// 不走字体转换的独立 SVG 图标（描边图形，保留原样）
-const standaloneSvgs = ['zmfk'];
+const standaloneSvgs = [];
 
 fs.readdir(svgPath, (err, files) => {
   if (err) {
